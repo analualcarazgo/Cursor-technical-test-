@@ -15,3 +15,8 @@
 - *Solution*: Identified the account requirements and prerequisites and bypassed the add-on to utilize Cursor's native AI features instead.
 - **Terminal and Git integration issue**: Initially, cursor did not recognize the Git installation, leading to errors when attempting terminal-based commands. 
 - *Solution*: The issue was resolved by performing a clean restart of the Cursor editor after installing Git, allowing the environment variables to refresh and integrate correctly.
+
+# B2B SaaS Research Project: Youtube Content Strategy
+## Chosen Topic
+**Youtube content strategy for B2B SaaS**
+Ten experts were selected based on their proven track record in B2B SaaS. They provide tested insights from real world B2B SaaS growth and actively implement the methodologies they advocate. This repository serves as a knowledge base for building a scalable content playbook.
